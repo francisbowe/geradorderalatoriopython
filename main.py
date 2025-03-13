@@ -25,4 +25,4 @@ media_ticket = media_ticket.rename(columns={0: 'Ticket Médio'})
 
 #enviar e-mail para diretoria com resumo do faturamento por loja
 
-
+email = input('Qual o seu e-mail?')
